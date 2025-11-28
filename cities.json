@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": 1,
+      "name": "Abidjan",
+      "country": "Côte d'Ivoire",
+      "collection": "Heritage",
+      "image": "images/abidjan-heritage.jpg",
+      "description": "Capitale économique de la Côte d'Ivoire"
+    },
+    {
+      "id": 2,
+      "name": "Stone Town",
+      "country": "Zanzibar, Tanzanie",
+      "collection": "Aquarelle",
+      "image": "images/stonetown-aquarelle.jpg",
+      "description": "Centre historique de Zanzibar"
+    },
+    {
+      "id": 3,
+      "name": "Dakar",
+      "country": "Sénégal",
+      "collection": "Heritage",
+      "image": "images/dakar-heritage.jpg",
+      "description": "Capitale du Sénégal sur l'océan Atlantique"
+    },
+    {
+      "id": 4,
+      "name": "Marrakech",
+      "country": "Maroc",
+      "collection": "Aquarelle",
+      "image": "images/marrakech-aquarelle.jpg",
+      "description": "La ville rouge du Maroc"
+    },
+    {
+      "id": 5,
+      "name": "Lagos",
+      "country": "Nigeria",
+      "collection": "Heritage",
+      "image": "images/lagos-heritage.jpg",
+      "description": "Métropole dynamique du Nigeria"
+    },
+    {
+      "id": 6,
+      "name": "Accra",
+      "country": "Ghana",
+      "collection": "Aquarelle",
+      "image": "images/accra-aquarelle.jpg",
+      "description": "Capitale du Ghana"
+    }
+  ]
+}
