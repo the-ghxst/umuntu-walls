@@ -12,12 +12,13 @@ Les noms de fichiers doivent suivre ce format :
 ```
 
 ### Exemples :
-- `abidjan-heritage.jpg`
+- `abidjan- `capetown-heritage.jpg`
+- `casablanca-heritage.jpg`
 - `stonetown-aquarelle.jpg`
-- `dakar-heritage.jpg`
-- `marrakech-aquarelle.jpg`
+- `nairobi-heritage.jpg`
+- `kinshasa-heritage.jpg`
 - `lagos-heritage.jpg`
-- `accra-aquarelle.jpg`
+- `abidjan-aquarelle.jpg`
 
 ### Spécifications des images
 
@@ -36,9 +37,10 @@ Les noms de fichiers doivent suivre ce format :
 ### Images actuellement nécessaires
 
 Selon `cities.json`, ces images sont attendues :
-- [ ] abidjan-heritage.jpg
+- [ ] capetown-heritage.jpg
+- [ ] casablanca-heritage.jpg
 - [ ] stonetown-aquarelle.jpg
-- [ ] dakar-heritage.jpg
-- [ ] marrakech-aquarelle.jpg
+- [ ] nairobi-heritage.jpg
+- [ ] kinshasa-heritage.jpg
 - [ ] lagos-heritage.jpg
-- [ ] accra-aquarelle.jpg
+- [ ] abidjan-aquarelle.jpg
