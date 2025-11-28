@@ -2,14 +2,22 @@
   "cities": [
     {
       "id": 1,
-      "name": "Abidjan",
-      "country": "Côte d'Ivoire",
+      "name": "Cape Town",
+      "country": "Afrique du Sud",
       "collection": "Heritage",
-      "image": "images/abidjan-heritage.jpg",
-      "description": "Capitale économique de la Côte d'Ivoire"
+      "image": "images/capetown-heritage.jpg",
+      "description": "La ville mère de l'Afrique du Sud"
     },
     {
       "id": 2,
+      "name": "Casablanca",
+      "country": "Maroc",
+      "collection": "Heritage",
+      "image": "images/casablanca-heritage.jpg",
+      "description": "La perle de l'Atlantique marocain"
+    },
+    {
+      "id": 3,
       "name": "Stone Town",
       "country": "Zanzibar, Tanzanie",
       "collection": "Aquarelle",
@@ -17,23 +25,23 @@
       "description": "Centre historique de Zanzibar"
     },
     {
-      "id": 3,
-      "name": "Dakar",
-      "country": "Sénégal",
-      "collection": "Heritage",
-      "image": "images/dakar-heritage.jpg",
-      "description": "Capitale du Sénégal sur l'océan Atlantique"
-    },
-    {
       "id": 4,
-      "name": "Marrakech",
-      "country": "Maroc",
-      "collection": "Aquarelle",
-      "image": "images/marrakech-aquarelle.jpg",
-      "description": "La ville rouge du Maroc"
+      "name": "Nairobi",
+      "country": "Kenya",
+      "collection": "Heritage",
+      "image": "images/nairobi-heritage.jpg",
+      "description": "Capital dynamique de l'Afrique de l'Est"
     },
     {
       "id": 5,
+      "name": "Kinshasa",
+      "country": "République Démocratique du Congo",
+      "collection": "Heritage",
+      "image": "images/kinshasa-heritage.jpg",
+      "description": "Le coeur d'Afrique"
+    },
+    {
+      "id": 6,
       "name": "Lagos",
       "country": "Nigeria",
       "collection": "Heritage",
@@ -41,12 +49,12 @@
       "description": "Métropole dynamique du Nigeria"
     },
     {
-      "id": 6,
-      "name": "Accra",
-      "country": "Ghana",
+      "id": 7,
+      "name": "Abidjan",
+      "country": "Côte d'Ivoire",
       "collection": "Aquarelle",
-      "image": "images/accra-aquarelle.jpg",
-      "description": "Capitale du Ghana"
+      "image": "images/abidjan-aquarelle.jpg",
+      "description": "Perle des Lagunes"
     }
   ]
 }
