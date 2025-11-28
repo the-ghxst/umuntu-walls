@@ -9,8 +9,7 @@ fetch('cities.json')
       cityCard.className = 'city-card';
       
       cityCard.innerHTML = `
-        <img src="${city.image}" alt="${city.name}" onerror="this.src='https://via.placeholder.com/250x200?text=${city.name}'">
-        <div class="city-info">
+        <img src="${city.image}" alt="${city.name}" onerror="this.src='https://via.placeholder.com/250x200?text=${city.name}'">        <div class="city-info">
           <h3>${city.name}</h3>
           <p>${city.country}</p>
           <span class="collection-badge">${city.collection}</span>
